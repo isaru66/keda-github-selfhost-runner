@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Sample Job For Keda Github Selfhost Runner
+name: Sample Job For Testing Docker Build
 
 # Controls when the workflow will run
 on:
